@@ -1,0 +1,15 @@
+body{
+    font-family: 'Caveat', cursive;
+    background-color:blue;
+    padding:20px;
+
+
+}   
+.card{
+    text-align: center;
+    
+}
+#bio-image{
+    width: 25rem; 
+    height:250px;
+}
