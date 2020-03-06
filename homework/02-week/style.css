@@ -1,15 +1,21 @@
 body{
-    font-family: 'Caveat', cursive;
     background-color:blue;
     padding:20px;
-
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjZTQi1vCMWV77hmDUd5vIsxq01NygFTJwt3n_rgAnA0WhV-kr");
+    background-repeat: no repeat;
+    background-size:cover;
+    position: relative;
 
 }   
 .card{
     text-align: center;
-    
+    background-color:silver;
+    font-family: 'Caveat', cursive;
+
 }
 #bio-image{
-    width: 25rem; 
-    height:250px;
+    width: 15rem; 
+    height:100%;
+    
+
 }
